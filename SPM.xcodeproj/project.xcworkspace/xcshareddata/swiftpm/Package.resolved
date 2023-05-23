@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "floatinglabeltextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxakash/FloatingLabelTextField.git",
+      "state" : {
+        "revision" : "f552923b8efb74d820d1e33e7fc5e54d6692bb17",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "rotatinglabel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/raymondjavaxx/RotatingLabel.git",
+      "state" : {
+        "revision" : "3f8aa95d431a186b02743ef65e43003567f91d58",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "skyfloatinglabeltextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Skyscanner/SkyFloatingLabelTextField.git",
+      "state" : {
+        "revision" : "a0750ebbc7311f3b3debf99c5e59338e854afa59",
+        "version" : "4.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
